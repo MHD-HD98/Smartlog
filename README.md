@@ -1,5 +1,3 @@
-# Smartlog
-
 # Face Recognition with FastAPI and WebSockets
 
 This project implements a **real-time face recognition system** using **FastAPI**, **InsightFace (ArcFace model)**, and **OpenCV**. It streams video, detects faces, matches them against a stored database, and logs recognition events. It also features **WebSocket integration** to restart video processing when the frontend refreshes.
